@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.gameCanvas {
+  padding: 15px;
+}
+
+.menuOptions {
+    font-family: Arial;
+    font-size  : 34px;
+    stroke     : #000000;
+    fill       : #00ff00;
+    cursor     : pointer;
+    opacity: 0.5
+}
+
+.menuOptions:hover {
+    opacity: 1
+}
